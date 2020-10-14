@@ -1,4 +1,4 @@
-package ru.mirea.canh.pr6.task2;
+package pr6.task2;
 
 public class SortingStudentsByGPA  {
     //Quick Sort
