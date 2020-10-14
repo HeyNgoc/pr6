@@ -1,4 +1,4 @@
-package ru.mirea.canh.pr6.task3;
+package pr6.task3;
 
 import java.lang.*;
 import java.util.*;
