@@ -1,4 +1,4 @@
-package ru.mirea.canh.pr6.task1;
+package pr6.task1;
 
 public class SortingStudentsByiDNumber {
     public void sortingStudent(Student[] stu) {
